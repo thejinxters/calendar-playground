@@ -1,0 +1,20 @@
+# Universal ignores
+*.tgz
+*.gz
+*.zip
+*.psd
+*.log
+*.tar
+*.tar.gz
+*.swp
+.DS_Store
+.project
+.idea
+
+# Node Ignores
+/node_modules
+/npm-debug.log
+
+# Configurations
+/client_secret.json
+

@@ -1,0 +1,24 @@
+{
+  "name": "calendar-playground",
+  "version": "1.0.0",
+  "description": "Google Calendar Api Playground",
+  "main": "index.js",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thejinxters/calendar-playground.git"
+  },
+  "author": "Brandon Mikulka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejinxters/calendar-playground/issues"
+  },
+  "homepage": "https://github.com/thejinxters/calendar-playground#readme"
+}
